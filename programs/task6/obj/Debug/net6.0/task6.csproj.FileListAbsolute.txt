@@ -1,0 +1,30 @@
+C:\Users\Computing\source\repos\task6\bin\Debug\net6.0\task6.exe
+C:\Users\Computing\source\repos\task6\bin\Debug\net6.0\task6.deps.json
+C:\Users\Computing\source\repos\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+C:\Users\Computing\source\repos\task6\bin\Debug\net6.0\task6.dll
+C:\Users\Computing\source\repos\task6\bin\Debug\net6.0\task6.pdb
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.csproj.AssemblyReference.cache
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.dll
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\refint\task6.dll
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.pdb
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+C:\Users\Computing\source\repos\task6\obj\Debug\net6.0\ref\task6.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\bin\Debug\net6.0\task6.exe
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\bin\Debug\net6.0\task6.deps.json
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\bin\Debug\net6.0\task6.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\bin\Debug\net6.0\task6.pdb
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.csproj.AssemblyReference.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\refint\task6.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.pdb
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\task6\obj\Debug\net6.0\ref\task6.dll

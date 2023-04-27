@@ -1,0 +1,15 @@
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\bin\Debug\net6.0\taskonetofour.exe
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\bin\Debug\net6.0\taskonetofour.deps.json
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\bin\Debug\net6.0\taskonetofour.runtimeconfig.json
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\bin\Debug\net6.0\taskonetofour.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\bin\Debug\net6.0\taskonetofour.pdb
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.csproj.AssemblyReference.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.AssemblyInfoInputs.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.AssemblyInfo.cs
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.csproj.CoreCompileInputs.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\refint\taskonetofour.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.pdb
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\taskonetofour.genruntimeconfig.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskonetofour\obj\Debug\net6.0\ref\taskonetofour.dll

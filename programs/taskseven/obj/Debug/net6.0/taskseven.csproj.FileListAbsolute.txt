@@ -1,0 +1,15 @@
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\bin\Debug\net6.0\taskseven.exe
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\bin\Debug\net6.0\taskseven.deps.json
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\bin\Debug\net6.0\taskseven.runtimeconfig.json
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\bin\Debug\net6.0\taskseven.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\bin\Debug\net6.0\taskseven.pdb
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.csproj.AssemblyReference.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.AssemblyInfoInputs.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.AssemblyInfo.cs
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.csproj.CoreCompileInputs.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\refint\taskseven.dll
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.pdb
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\taskseven.genruntimeconfig.cache
+C:\Users\Computing\Downloads\AAC CW\AAC CW\programs\taskseven\obj\Debug\net6.0\ref\taskseven.dll
